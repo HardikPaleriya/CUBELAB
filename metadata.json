@@ -1,0 +1,6 @@
+{
+  "name": "CubeLab",
+  "description": "A high-performance Rubik's Cube solver with a modern, fresh UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
